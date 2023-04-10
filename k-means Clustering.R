@@ -1,3 +1,6 @@
+install.packages("cluster")
+install.packages("ggplot2")
+
 library(cluster)
 library(ggplot2)
 
