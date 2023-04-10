@@ -1,3 +1,7 @@
+install.packages("rpart")
+install.packages("rpart.plot")
+install.packages("caret")
+
 library(rpart)
 library(rpart.plot)
 library(caret)
